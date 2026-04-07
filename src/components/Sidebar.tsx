@@ -32,7 +32,7 @@ export default function Sidebar({ conversations, activeId, onSelect, onNew, onDe
       {/* Header */}
       <div className="p-4 border-b border-dark-border/30">
         <div className="flex items-center justify-center gap-2">
-          <span className="text-lg font-bold neon-text">WITCHEER</span>
+          <span className="text-lg font-bold neon-text">VOIDGLYPH</span>
           <span className="text-gray-600">//</span>
           <span className="text-sm font-semibold neon-text-pink">HERMES</span>
         </div>
@@ -123,7 +123,7 @@ export default function Sidebar({ conversations, activeId, onSelect, onNew, onDe
       <div className="p-3 border-t border-dark-border/30">
         <div className="flex items-center justify-center gap-1 text-[10px] text-gray-600">
           <Sparkles size={10} className="text-neon-pink" />
-          <span>WITCHEER</span>
+          <span>VOIDGLYPH</span>
           <span className="text-neon-green">//</span>
           <span>HERMES</span>
         </div>
